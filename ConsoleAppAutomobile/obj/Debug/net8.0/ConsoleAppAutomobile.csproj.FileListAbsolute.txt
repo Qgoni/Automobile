@@ -1,0 +1,15 @@
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\bin\Debug\net8.0\ConsoleAppAutomobile.exe
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\bin\Debug\net8.0\ConsoleAppAutomobile.deps.json
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\bin\Debug\net8.0\ConsoleAppAutomobile.runtimeconfig.json
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\bin\Debug\net8.0\ConsoleAppAutomobile.dll
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\bin\Debug\net8.0\ConsoleAppAutomobile.pdb
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ConsoleAppAutomobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ConsoleAppAutomobile.AssemblyInfoInputs.cache
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ConsoleAppAutomobile.AssemblyInfo.cs
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ConsoleAppAutomobile.csproj.CoreCompileInputs.cache
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ConsoleAppAutomobile.sourcelink.json
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ConsoleAppAutomobile.dll
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\refint\ConsoleAppAutomobile.dll
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ConsoleAppAutomobile.pdb
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ConsoleAppAutomobile.genruntimeconfig.cache
+C:\Users\alesh\source\repos\ConsoleAppAutomobile\ConsoleAppAutomobile\obj\Debug\net8.0\ref\ConsoleAppAutomobile.dll

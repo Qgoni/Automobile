@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\alesh\\source\\repos\\ConsoleAppAutomobile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51408F52-21DD-4957-9C75-B8CB43F2674F}|ConsoleAppAutomobile\\ConsoleAppAutomobile.csproj|c:\\users\\alesh\\source\\repos\\consoleappautomobile\\consoleappautomobile\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51408F52-21DD-4957-9C75-B8CB43F2674F}|ConsoleAppAutomobile\\ConsoleAppAutomobile.csproj|solutionrelative:consoleappautomobile\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51408F52-21DD-4957-9C75-B8CB43F2674F}|ConsoleAppAutomobile\\ConsoleAppAutomobile.csproj|c:\\users\\alesh\\source\\repos\\consoleappautomobile\\consoleappautomobile\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51408F52-21DD-4957-9C75-B8CB43F2674F}|ConsoleAppAutomobile\\ConsoleAppAutomobile.csproj|solutionrelative:consoleappautomobile\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51408F52-21DD-4957-9C75-B8CB43F2674F}|ConsoleAppAutomobile\\ConsoleAppAutomobile.csproj|c:\\users\\alesh\\source\\repos\\consoleappautomobile\\consoleappautomobile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51408F52-21DD-4957-9C75-B8CB43F2674F}|ConsoleAppAutomobile\\ConsoleAppAutomobile.csproj|solutionrelative:consoleappautomobile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\alesh\\source\\repos\\ConsoleAppAutomobile\\ConsoleAppAutomobile\\BMW.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAutomobile\\BMW.cs",
+              "ToolTip": "C:\\Users\\alesh\\source\\repos\\ConsoleAppAutomobile\\ConsoleAppAutomobile\\BMW.cs",
+              "RelativeToolTip": "ConsoleAppAutomobile\\BMW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:34:23.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\alesh\\source\\repos\\ConsoleAppAutomobile\\ConsoleAppAutomobile\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAutomobile\\Car.cs",
+              "ToolTip": "C:\\Users\\alesh\\source\\repos\\ConsoleAppAutomobile\\ConsoleAppAutomobile\\Car.cs*",
+              "RelativeToolTip": "ConsoleAppAutomobile\\Car.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:19:12.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alesh\\source\\repos\\ConsoleAppAutomobile\\ConsoleAppAutomobile\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppAutomobile\\Program.cs",
               "ToolTip": "C:\\Users\\alesh\\source\\repos\\ConsoleAppAutomobile\\ConsoleAppAutomobile\\Program.cs",
               "RelativeToolTip": "ConsoleAppAutomobile\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T16:38:04.413Z",
               "EditorCaption": ""

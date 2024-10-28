@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppAutomobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+805d28cc79bf3401f446d3a57d8d4821591ac578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1665d6aa03ae03a7d5721ecb66dba830871d59d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppAutomobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppAutomobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
