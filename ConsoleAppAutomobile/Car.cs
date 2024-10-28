@@ -13,7 +13,6 @@ namespace ConsoleAppAutomobile
         public int VINid { get; set; }
         public string Color { get; set; }
 
-
         /// <summary>
         /// Возвращает максимальную скорость автомобиля в зависимости от модели передаваемой в метод.
         /// </summary>
