@@ -51,4 +51,15 @@ bmwModel5.GetClassAuto();
 bmwModel5.ReturnMaxSpeed();
 bmwModel5.GetListModelCar();
 
+Console.WriteLine("\nИнформация по машине BMW М5 серии");
 
+ModelM5BMW bmwModelM5 = new ModelM5BMW();
+bmwModelM5.model = "M5";
+bmwModelM5.EnginePower = 4;
+bmwModelM5.Color = "Зеленый";
+bmwModelM5.VINid = 9976245814325;
+Console.WriteLine($"VIN-{bmwModelM5.VINid}\nОбъем двигателя {bmwModelM5.EnginePower}\nЦвет - {bmwModelM5.Color}");
+bmwModelM5.GetTheTypeOfCar();
+bmwModelM5.GetClassAuto();
+bmwModelM5.ReturnMaxSpeed();
+bmwModelM5.GetListModelCar();
