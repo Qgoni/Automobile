@@ -1,9 +1,16 @@
 ﻿using ConsoleAppAutomobile;
 
-Car car = new Car();
-car.model = "1";
-car.ReturnMaxSpeed(car.model);
+Console.WriteLine("Информация по машине BMW 2 серии");
+Model2BMW bmwModel2 = new Model2BMW();
+bmwModel2.model = "2";
+bmwModel2.EnginePower = 4;
+bmwModel2.Color = "Белый";
+bmwModel2.VINid = 9836245874325;
+Console.WriteLine($"VIN-{bmwModel2.VINid}\nОбъем двигателя {bmwModel2.EnginePower}\nЦвет - {bmwModel2.Color}");
+bmwModel2.GetTheTypeOfCar();
+bmwModel2.GetClassAuto();
+bmwModel2.ReturnMaxSpeed();
+bmwModel2.GetListModelCar();
 
-BMW bmw = new BMW();
-bmw.model = "2";
-bmw.ReturnMaxSpeed(bmw.model);
+
+
