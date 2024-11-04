@@ -25,4 +25,17 @@ bmwModel3.GetClassAuto();
 bmwModel3.ReturnMaxSpeed();
 bmwModel3.GetListModelCar();
 
+Console.WriteLine("\nИнформация по машине BMW 4 серии");
+
+Model4BMW bmwModel4 = new Model4BMW();
+bmwModel4.model = "3";
+bmwModel4.EnginePower = 4;
+bmwModel4.Color = "Черный";
+bmwModel4.VINid = 9996245874325;
+Console.WriteLine($"VIN-{bmwModel4.VINid}\nОбъем двигателя {bmwModel4.EnginePower}\nЦвет - {bmwModel4.Color}");
+bmwModel4.GetTheTypeOfCar();
+bmwModel4.GetClassAuto();
+bmwModel4.ReturnMaxSpeed();
+bmwModel4.GetListModelCar();
+
 
