@@ -10,7 +10,7 @@ Console.WriteLine($"VIN-{bmwModel2.VINid}\nОбъем двигателя {bmwMod
 bmwModel2.GetTheTypeOfCar();
 bmwModel2.GetClassAuto();
 bmwModel2.ReturnMaxSpeed();
-bmwModel2.GetListModelCar();
+bmwModel2.GetBrand();
 
 Console.WriteLine("\nИнформация по машине BMW 3 серии");
 
@@ -23,7 +23,7 @@ Console.WriteLine($"VIN-{bmwModel3.VINid}\nОбъем двигателя {bmwMod
 bmwModel3.GetTheTypeOfCar();
 bmwModel3.GetClassAuto();
 bmwModel3.ReturnMaxSpeed();
-bmwModel3.GetListModelCar();
+bmwModel3.GetBrand();
 
 Console.WriteLine("\nИнформация по машине BMW 4 серии");
 
@@ -36,7 +36,7 @@ Console.WriteLine($"VIN-{bmwModel4.VINid}\nОбъем двигателя {bmwMod
 bmwModel4.GetTheTypeOfCar();
 bmwModel4.GetClassAuto();
 bmwModel4.ReturnMaxSpeed();
-bmwModel4.GetListModelCar();
+bmwModel4.GetBrand();
 
 Console.WriteLine("\nИнформация по машине BMW 5 серии");
 
@@ -49,9 +49,9 @@ Console.WriteLine($"VIN-{bmwModel5.VINid}\nОбъем двигателя {bmwMod
 bmwModel5.GetTheTypeOfCar();
 bmwModel5.GetClassAuto();
 bmwModel5.ReturnMaxSpeed();
-bmwModel5.GetListModelCar();
+bmwModel5.GetBrand();
 
-Console.WriteLine("\nИнформация по машине BMW М5 серии");
+Console.WriteLine("\nИнформация по машине BMW M5 серии");
 
 ModelM5BMW bmwModelM5 = new ModelM5BMW();
 bmwModelM5.model = "M5";
@@ -62,4 +62,4 @@ Console.WriteLine($"VIN-{bmwModelM5.VINid}\nОбъем двигателя {bmwMo
 bmwModelM5.GetTheTypeOfCar();
 bmwModelM5.GetClassAuto();
 bmwModelM5.ReturnMaxSpeed();
-bmwModelM5.GetListModelCar();
+bmwModelM5.GetBrand();
