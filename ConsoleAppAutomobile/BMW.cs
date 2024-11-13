@@ -9,7 +9,7 @@ namespace ConsoleAppAutomobile
     public abstract class BMW : Car
     {
         public abstract void GetTheTypeOfCar();
-        public void GetBrand()
+        public override void GetBrand()
         {
             Console.WriteLine("BMW");
         }
